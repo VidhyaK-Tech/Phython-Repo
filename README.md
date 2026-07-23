@@ -115,3 +115,44 @@ These programs are simple and intended for learning purposes.
 ---
 
 ⭐ Happy Coding!
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Exercise - 2
+
+🐍 Python Conditional Programs (If-Else Based)
+
+This repository contains a collection of beginner-friendly Python programs focused on conditional statements (if-else logic). These exercises help build strong fundamentals in decision-making and logical thinking.
+
+📌 Topics Covered
+🔢 Number-Based Programs
+Check if a number is Positive, Negative, or Zero
+Check if a number is Even or Odd
+Find the Largest of Two Numbers
+Find the Largest of Three Numbers
+Check if a number is a Palindrome
+
+👤 Real-Life Condition Programs
+Check Voting Eligibility (Age ≥ 18)
+Check if a number is Greater than 100
+Calculate Grade based on Marks
+Calculate Electricity Bill based on Units
+
+🔤 Character-Based Programs
+Check if a character is:
+Uppercase
+Lowercase
+Digit
+Special Symbol
+Check if a character is a Vowel or Consonant
+
+🔺 Geometry & Logic
+Check if a Triangle is Valid
+Classify Triangle:
+Equilateral
+Isosceles
+Scalene
+
+📅 Utility Programs
+Convert Day Number → Day Name
+Convert Month Number → Month Name
+Calculate Sum of Even Numbers (1 to N)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
